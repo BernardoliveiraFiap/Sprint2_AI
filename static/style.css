@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #a7a7a7;
+    text-align: center; /* Centraliza todos os textos */
+    padding-top: 10px;
+}
+
+.container {
+    width: 100%;
+    margin: center;
+    padding-top: 60px;
+}
+
+.card {
+    background-color: #11303b; /* Cor de fundo do card */
+    padding: 20px;
+    border-radius: 15px;
+    width: 50%; /* Define a largura do card */
+    margin: 0 auto; /* Centraliza o card */
+}
+
+form {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.form-group {
+    margin-bottom: 50px; /* Espaçamento de 50px entre os itens */
+}
+
+.form-control {
+    width: calc(100% - 22px); /* Considerando a borda de 1px em cada lado */
+    padding: 10px;
+    border: 1px solid #dddddd;
+    box-sizing: border-box; /* Inclui o padding e a borda no cálculo da largura */
+    display: inline-block; /* Garante que o elemento não ocupe toda a largura */
+}
+
+button {
+    background-color: #007BFF;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
