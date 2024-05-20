@@ -11,3 +11,5 @@
 # 2TDSPF
 
 # https://youtu.be/YDWOa7D3sq4
+
+# Caso queira consultar o modelo colab que foi usado de base feito por nós, acessar a branch colab
